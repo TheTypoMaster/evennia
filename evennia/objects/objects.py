@@ -188,7 +188,7 @@ class DefaultObject(ObjectDB):
         """
         Returns the contents of this object, i.e. all
         objects that has this object set as its location.
-        This should be publically available.
+        This should be publicly available.
 
         Args:
             exclude (Object): Object to exclude from returned
